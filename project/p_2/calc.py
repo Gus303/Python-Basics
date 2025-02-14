@@ -10,3 +10,4 @@ print(-3*4.5)
 #division
 print(9/3)
 print(10//3)#only full division
+print(10%7)#only the other part
