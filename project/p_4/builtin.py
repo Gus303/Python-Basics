@@ -7,7 +7,11 @@ sum([2,7,1,4])#return the sum of the values
 
 pow(2, 3)#exponential
 
-if 2+2==4:
+number=eval(input('How much is 2 + 2: '))
+
+if number == 4:
     print("true")
+elif number == 22 :
+    print("I'm talking about math")
 else:
     print("false")
