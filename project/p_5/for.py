@@ -5,4 +5,7 @@ for number in [0,1,2,3,4,5]:
     print(number,end=' ')
 
 for number_row in range(5,10):
-    print(number_row, end=' ')
+    print(number_row)
+
+#for number_divi in range(5,20,5):
+#    print(number_divi)
