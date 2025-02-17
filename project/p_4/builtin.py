@@ -6,3 +6,8 @@ max(5,6,7,8,9)#return the biggest item
 sum([2,7,1,4])#return the sum of the values
 
 pow(2, 3)#exponential
+
+if 2+2==4:
+    print("true")
+else:
+    print("false")
